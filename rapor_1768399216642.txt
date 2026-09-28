@@ -1,0 +1,14 @@
+=== ÜYE RAPORU ===
+Toplam Üye Sayısı: 10
+Toplam Aylık Getiri: 42128,40 TL
+
+Standart üye: Ahmet Yılmaz - Aylık ücret: 3000,00 TL
+Standart üye: Mehmet Kaya - Aylık ücret: 3000,00 TL
+Standart üye: Halil ibrahim özyurt - Aylık ücret: 3000,00 TL
+Premium Üye: Ayşe Demir - Aylık Ücret: 3050,00 TL (Ek Hizmet: 50,00 TL)
+Premium Üye: Zeynep Şahin - Aylık Ücret: 3075,00 TL (Ek Hizmet: 75,00 TL)
+Premium Üye: İdal Çelik - Aylık Ücret: 6000,00 TL (Ek Hizmet: 3000,00 TL)
+Premium Üye: Nurulah Çelik - Aylık Ücret: 6000,00 TL (Ek Hizmet: 3000,00 TL)
+Premium Üye: Eda Kutlu - Aylık Ücret: 5547,00 TL (Ek Hizmet: 2547,00 TL)
+Premium Üye: Ali Çelik - Aylık Ücret: 6456,40 TL (Ek Hizmet: 3456,40 TL)
+Standart üye: simge azvay - Aylık ücret: 3000,00 TL

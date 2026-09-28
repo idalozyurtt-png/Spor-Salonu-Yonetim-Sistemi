@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<uyeler>
+    <uye id="1">
+        <ad>Ahmet</ad>
+        <soyad>Yılmaz</soyad>
+        <tur>Standart</tur>
+        <baslangicTarihi>2025-12-01</baslangicTarihi>
+    </uye>
+    <uye id="2">
+        <ad>Mehmet</ad>
+        <soyad>Kaya</soyad>
+        <tur>Standart</tur>
+        <baslangicTarihi>2025-12-15</baslangicTarihi>
+    </uye>
+    <uye id="3">
+        <ad>Halil ibrahim</ad>
+        <soyad>özyurt</soyad>
+        <tur>Standart</tur>
+        <baslangicTarihi>2026-01-19</baslangicTarihi>
+    </uye>
+    <uye id="4">
+        <ad>Ayşe</ad>
+        <soyad>Demir</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2025-12-10</baslangicTarihi>
+        <ekHizmetUcreti>50.0</ekHizmetUcreti>
+    </uye>
+    <uye id="5">
+        <ad>Zeynep</ad>
+        <soyad>Şahin</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2025-10-20</baslangicTarihi>
+        <ekHizmetUcreti>75.0</ekHizmetUcreti>
+    </uye>
+    <uye id="6">
+        <ad>İdal</ad>
+        <soyad>Çelik</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2026-02-15</baslangicTarihi>
+        <ekHizmetUcreti>3000.0</ekHizmetUcreti>
+    </uye>
+    <uye id="7">
+        <ad>Nurulah</ad>
+        <soyad>Çelik</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2026-02-15</baslangicTarihi>
+        <ekHizmetUcreti>3000.0</ekHizmetUcreti>
+    </uye>
+    <uye id="8">
+        <ad>Eda</ad>
+        <soyad>Kutlu</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2026-01-14</baslangicTarihi>
+        <ekHizmetUcreti>2547.0</ekHizmetUcreti>
+    </uye>
+    <uye id="9">
+        <ad>Ali</ad>
+        <soyad>Çelik</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2026-01-14</baslangicTarihi>
+        <ekHizmetUcreti>3456.4</ekHizmetUcreti>
+    </uye>
+    <uye id="10">
+        <ad>simge</ad>
+        <soyad>azvay</soyad>
+        <tur>Premium</tur>
+        <baslangicTarihi>2026-01-15</baslangicTarihi>
+        <ekHizmetUcreti>3567.0</ekHizmetUcreti>
+    </uye>
+    <uye id="11">
+        <ad>kaya</ad>
+        <soyad>suncer</soyad>
+        <tur>Standart</tur>
+        <baslangicTarihi>2026-01-14</baslangicTarihi>
+    </uye>
+</uyeler>
